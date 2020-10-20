@@ -4,8 +4,9 @@
 The decision trees can be divided, with respect to the target values, into:
 
 *Classification trees* used to classify samples, assign to a limited set of values - classes. In scikit-learn it is DecisionTreeClassifier.
+
 *Regression trees* used to assign samples into numerical values within the range. In scikit-learn it is DecisionTreeRegressor.
-Decision trees are a popular tool in decision analysis. They can support decisions thanks to the visual representation of each decision.
+
 
 There are 4 ways to visualize Decision Tree in Python:
 
