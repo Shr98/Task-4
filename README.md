@@ -1,4 +1,8 @@
 # Task-4 Prediction using Decision Tree Algorithm
+
+● For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
+● The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+
  Decision Tree is a supervised algorithm used in machine learning. It is using a binary tree graph (each node has two children) to assign for each data sample a target value. The target values are presented in the tree leaves. To reach to the leaf, the sample is propagated through nodes, starting at the root node. In each node a decision is made, to which descendant node it should go. A decision is made based on the selected sample’s feature. Decision Tree learning is a process of finding the optimal rules in each internal tree node according to the selected metric.
 
 The decision trees can be divided, with respect to the target values, into:
